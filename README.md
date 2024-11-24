@@ -1,6 +1,6 @@
 
 
- <img src="https://media.tenor.com/images/d6e467ab42e0f155a9a3a1a0dada3a68/tenor.gif" alt="Davi-gift">
+ <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" width="690" height="690" alt="linux-image">
 
 - 👀 Atualmente estou enterresado em me aprofundar python
 - 🌱 estudo estou estudando e praticando o framework flask, flutter
