@@ -1,6 +1,6 @@
 - Ola me chamo Davi!
 
- <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" width="500" height="300" alt="linux-image">
+ <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" align="center" width="300" height="300" alt="linux-image">
 
 
 
