@@ -1,4 +1,4 @@
-
+- Ola me chamo Davi!
 
  <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" width="300" height="300" alt="linux-image">
 
@@ -19,7 +19,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Davi-Python" height="30" width="40" src=" https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png">
+   <img   align="center" alt="Davi-dartk" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
   <img align="center" alt="Davi-dartk" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="Davi-dartk" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Davi-php"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
