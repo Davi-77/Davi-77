@@ -1,4 +1,7 @@
 
+
+ <img src="https://media.tenor.com/images/d6e467ab42e0f155a9a3a1a0dada3a68/tenor.gif" alt="Davi-gift">
+
 - 👀 Atualmente estou enterresado em me aprofundar python
 - 🌱 estudo estou estudando e praticando o framework flask, flutter
 - ⚡sou muito interresado em cybersec
@@ -11,11 +14,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-77&layout=compact&langs_count=8&card_width=320" />
 </a>
 
- <img src="https://media.tenor.com/images/d6e467ab42e0f155a9a3a1a0dada3a68/tenor.gif" alt="Davi-gift">
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Davi-Python" height="30" width="40" src=" https://www.svgrepo.com/show/473611/flask.svg"> 
+    <img align="center" alt="Davi-Python" height="30" width="40" src=" https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png">
   <img align="center" alt="Davi-dartk" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="Davi-dartk" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Davi-php"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
