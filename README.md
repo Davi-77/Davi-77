@@ -1,6 +1,6 @@
 - Ola me chamo Davi!
 
- <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" align="center" width="300" height="300" alt="linux-image">
+ <img align="center" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif"  width="300" height="300" alt="linux-image">
 
 
 
@@ -8,7 +8,7 @@
 
 - 🌱 Estou estudando e praticando o framework Flask, desenvolvendo habilidades em criação de APIs e aplicações web leves. Além disso, tenho interesse em Flutter, buscando me aprimorar no desenvolvimento de interfaces móveis nativas para Android com uma única base de código.
 
--⚡ Tenho um grande interesse em cibersegurança, e estou me aprofundando nas melhores práticas para proteção de sistemas e redes, além de aprender sobre hacking ético e segurança em ambientes digitais.
+- ⚡ Tenho um grande interesse em cibersegurança, e estou me aprofundando nas melhores práticas para proteção de sistemas e redes, além de aprender sobre hacking ético e segurança em ambientes digitais.
 
 <a href="https://github.com/Davi-77/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davi-77" />
