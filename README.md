@@ -6,7 +6,7 @@
 
 - 👀 Atualmente, estou focado no aprofundamento do meu conhecimento em Python, explorando tanto suas bibliotecas quanto frameworks para aplicações web e automação.
 
-- 🌱 Estou estudando e praticando o framework Flask, desenvolvendo habilidades em criação de APIs e aplicações web leves. Além disso, tenho interesse em Flutter, buscando me aprimorar no desenvolvimento de interfaces móveis nativas para Android com uma única base de código.
+- 🌱 Estou estudando e praticando o framework Flask, desenvolvendo habilidades em criação de APIs e aplicações web leves. Além disso, tenho experiencia em Flutter, buscando me aprimorar no desenvolvimento de interfaces móveis nativas para Android com uma única base de código.
 
 - ⚡ Tenho um grande interesse em cibersegurança, e estou me aprofundando nas melhores práticas para proteção de sistemas e redes, além de aprender sobre hacking ético e segurança em ambientes digitais.
 
